@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\KRMOFF\\Desktop\\TasksPB201\\Task1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{78B18F70-CDAC-4534-80D9-4FF2113B03F6}|UceVeBeseBolunenReqemlerPB201\\UceVeBeseBolunenReqemlerPB201.csproj|c:\\users\\krmoff\\desktop\\taskspb201\\task1\\ucevebesebolunenreqemlerpb201\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78B18F70-CDAC-4534-80D9-4FF2113B03F6}|UceVeBeseBolunenReqemlerPB201\\UceVeBeseBolunenReqemlerPB201.csproj|solutionrelative:ucevebesebolunenreqemlerpb201\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\KRMOFF\\Desktop\\TasksPB201\\Task1\\UceVeBeseBolunenReqemlerPB201\\Program.cs",
+              "RelativeDocumentMoniker": "UceVeBeseBolunenReqemlerPB201\\Program.cs",
+              "ToolTip": "C:\\Users\\KRMOFF\\Desktop\\TasksPB201\\Task1\\UceVeBeseBolunenReqemlerPB201\\Program.cs",
+              "RelativeToolTip": "UceVeBeseBolunenReqemlerPB201\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T17:01:35.778Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
